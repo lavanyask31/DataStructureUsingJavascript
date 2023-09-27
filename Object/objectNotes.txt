@@ -1,0 +1,21 @@
+-----------Object
+unordered collection of key-value pairs
+not iterable
+accessed using its key and this is achieved using dot or bracket
+
+-----------additional methods
+Object.keys()
+Object.values()
+Object.entries()
+
+---------worst case time Complexity
+insert - O(1)
+remove - O(1)
+Access - O(1)
+
+Search - O(n)
+Object.keys() - O(n)
+Object.values() - O(n)
+Object.entries() - O(n)
+
+
