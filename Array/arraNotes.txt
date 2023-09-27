@@ -1,0 +1,25 @@
+-----------------Array
+collection of values
+different types
+resizable
+Zero indexed
+iterable - for of loop
+
+--------------Additional method we can use 
+map 
+filter
+reduce
+concat
+slice
+splice
+
+----- Big O time complexity
+insert / delete from end - > O(1)
+insert / delete from beginning - > O(n)
+Accessing element - >O(1)
+Searching - > O(n)
+
+
+Push / Pop  - > O(1)
+Shift / unshift / concat / slice / slice /splice - O(n)
+forEach / map / filter / reduce - O(n)
