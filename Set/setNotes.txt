@@ -1,0 +1,6 @@
+-----------Set
+collection of unique values
+can be different data types
+dynamically sized
+not insertion order
+iterables - loop

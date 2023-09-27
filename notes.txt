@@ -17,3 +17,11 @@ Linked lists
 Hash tables
 Trees
 Graphs
+
+
+------------------individual notes are maintained inside its own folder here we will have a general notes
+Set vs Array
+
+array contain duplicate value and Set is of unique values
+inseetion orderdn maintaine in arrays and not there in Set
+searching and deleting element is slower in Array and Faster in Set
