@@ -25,3 +25,11 @@ Set vs Array
 array contain duplicate value and Set is of unique values
 inseetion orderdn maintaine in arrays and not there in Set
 searching and deleting element is slower in Array and Faster in Set
+
+
+Object vs Map
+Object unordered --- Map ordered
+In Object keys are string or symbol --- In Map key can be any type
+Object has some default keys which we not use and In Map there no key 
+Object are not iterable  ---- Maps are iterable
+Object can store data and function --- Maps can only store data
