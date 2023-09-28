@@ -1,0 +1,15 @@
+ -----Stack 
+ LIFO
+ PUSH 
+ POP
+
+ ------ aplication
+ Browser History
+ Undo operation when typing
+ expression conversions
+
+
+
+array is indexed list allows random red and write operation
+stack is LIFO
+insertion and deletion is always constant time complexity...Array have linear time complexity
