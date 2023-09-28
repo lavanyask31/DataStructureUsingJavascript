@@ -1,0 +1,12 @@
+-------------------------------Queue
+Fisrt in first out (FIFO)
+abstract data type
+
+---------Operation
+Enqueue [ rear end]
+Dequeue  [front end]
+
+
+----------- Application 
+Printer 
+CPU task scheduling
